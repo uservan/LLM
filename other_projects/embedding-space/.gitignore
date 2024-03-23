@@ -1,0 +1,5 @@
+__pycache__/*
+multiberts/*
+.ipynb_checkpoints/exploration-checkpoint.ipynb
+trainer_output/*
+artifacts/*

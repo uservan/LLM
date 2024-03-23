@@ -1,0 +1,115 @@
+4:
+  first token percent: 0.86279296875
+  mean for each token: 0.25
+  the most token: 0.0
+  the most token percent: 0.86279296875
+8:
+  first token percent: 0.806640625
+  mean for each token: 0.125
+  the most token: 0.0
+  the most token percent: 0.806640625
+20:
+  first token percent: 0.41748046875
+  mean for each token: 0.05
+  the most token: 0.0
+  the most token percent: 0.41748046875
+50:
+  first token percent: 0.351318359375
+  mean for each token: 0.02
+  the most token: 0.0
+  the most token percent: 0.351318359375
+100:
+  first token percent: 0.384521484375
+  mean for each token: 0.01
+  the most token: 0.0
+  the most token percent: 0.384521484375
+200:
+  first token percent: 0.328857421875
+  mean for each token: 0.005
+  the most token: 0.0
+  the most token percent: 0.328857421875
+400:
+  first token percent: 0.2232666015625
+  mean for each token: 0.0025
+  the most token: 0.0
+  the most token percent: 0.2232666015625
+600:
+  first token percent: 0.13330078125
+  mean for each token: 0.0016666666666666668
+  the most token: 9.0
+  the most token percent: 0.1351318359375
+800:
+  first token percent: 0.1256103515625
+  mean for each token: 0.00125
+  the most token: 9.0
+  the most token percent: 0.1298828125
+1000:
+  first token percent: 0.08648681640625
+  mean for each token: 0.001
+  the most token: 9.0
+  the most token percent: 0.08953857421875
+2000:
+  first token percent: 0.036376953125
+  mean for each token: 0.0005
+  the most token: 240.0
+  the most token percent: 0.0440673828125
+3000:
+  first token percent: 0.0016984939575195312
+  mean for each token: 0.0003333333333333333
+  the most token: 2999.0
+  the most token percent: 0.0036220550537109375
+4000:
+  first token percent: 0.008819580078125
+  mean for each token: 0.00025
+  the most token: 2327.0
+  the most token percent: 0.0193328857421875
+5000:
+  first token percent: 0.003894805908203125
+  mean for each token: 0.0002
+  the most token: 3238.0
+  the most token percent: 0.01544189453125
+6000:
+  first token percent: 0.0013971328735351562
+  mean for each token: 0.00016666666666666666
+  the most token: 4304.0
+  the most token percent: 0.01263427734375
+7000:
+  first token percent: 0.0008001327514648438
+  mean for each token: 0.00014285714285714287
+  the most token: 5403.0
+  the most token percent: 0.0079498291015625
+8000:
+  first token percent: 0.0005316734313964844
+  mean for each token: 0.000125
+  the most token: 295.0
+  the most token percent: 0.00939178466796875
+9000:
+  first token percent: .nan
+  mean for each token: 0.00011111111111111112
+  the most token: 0.0
+  the most token percent: .nan
+10000:
+  first token percent: .nan
+  mean for each token: 0.0001
+  the most token: 0.0
+  the most token percent: .nan
+11000:
+  first token percent: .nan
+  mean for each token: 9.09090909090909e-05
+  the most token: 0.0
+  the most token percent: .nan
+12000:
+  first token percent: .nan
+  mean for each token: 8.333333333333333e-05
+  the most token: 0.0
+  the most token percent: .nan
+13000:
+  first token percent: .nan
+  mean for each token: 7.692307692307693e-05
+  the most token: 0.0
+  the most token percent: .nan
+14000:
+  first token percent: .nan
+  mean for each token: 7.142857142857143e-05
+  the most token: 0.0
+  the most token percent: .nan
